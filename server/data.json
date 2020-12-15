@@ -1,0 +1,22 @@
+[
+    {
+        "name": "A",
+        "image": "./images/1.webp",
+        "price": 30
+    },
+    {
+        "name": "B",
+        "image": "./images/10.jpg",
+        "price": 20
+    },
+    {
+        "name": "C",
+        "image": "./images/1.jpg",
+        "price": 50
+    },
+    {
+        "name": "D",
+        "image": "./images/1.jpg",
+        "price": 15
+    }
+]
